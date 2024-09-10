@@ -1,0 +1,15 @@
+{
+  "name": "interaction-with-3d-objects",
+  "version": "1.0.0",
+  "description": "This repository contains a series of projects where I explore 3D interactions using Three.js, focusing on implementing interactive features like selecting and interacting with objects within a 3D scene using raycasting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.168.0"
+  }
+}
